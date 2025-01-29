@@ -1,0 +1,15 @@
+# env
+.env
+
+#venv
+.venv/
+
+#logs
+logs/*
+
+#python 
+__pycache__/
+.python-version
+
+#docker 
+docker-compose.yaml
